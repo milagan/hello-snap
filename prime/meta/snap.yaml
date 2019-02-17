@@ -6,7 +6,7 @@ description: 'GNU hello prints a friendly greeting.
 '
 architectures:
 - amd64
-confinement: devmode
+confinement: strict
 grade: devel
 apps:
   bash:
