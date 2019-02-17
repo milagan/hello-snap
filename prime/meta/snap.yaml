@@ -1,4 +1,4 @@
-name: hello
+name: hello-maurice
 version: '2.10'
 summary: GNU Hello, the "hello world" snap
 description: 'GNU hello prints a friendly greeting.
@@ -7,7 +7,7 @@ description: 'GNU hello prints a friendly greeting.
 architectures:
 - amd64
 confinement: strict
-grade: devel
+grade: stable
 apps:
   bash:
     command: command-bash.wrapper
