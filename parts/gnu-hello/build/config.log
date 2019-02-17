@@ -451,7 +451,7 @@ configure:7076: $? = 0
 configure:7076: result: yes
 configure:7076: checking for _set_invalid_parameter_handler
 configure:7076: gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccc3nT8e.o: In function `main':
+/tmp/ccZcCDzJ.o: In function `main':
 /home/parallels/mysnaps/hello/parts/gnu-hello/build/conftest.c:81: undefined reference to `_set_invalid_parameter_handler'
 collect2: error: ld returned 1 exit status
 configure:7076: $? = 1

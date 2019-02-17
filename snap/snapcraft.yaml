@@ -5,6 +5,11 @@ description: |
   GNU hello prints a friendly greeting.
 grade: stable
 confinement: strict
+architectures:
+  - build-on: amd64
+    run-on: amd64
+  - build-on: armhf
+    run-on: [armhf, arm64]
 
 apps:
   hello:

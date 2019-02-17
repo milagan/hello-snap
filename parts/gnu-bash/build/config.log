@@ -2714,7 +2714,7 @@ configure:9551: $? = 0
 configure:9551: result: yes
 configure:9557: checking for _doprnt
 configure:9557: gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccRl3rAZ.o: In function `main':
+/tmp/ccXfGKUf.o: In function `main':
 /home/parallels/mysnaps/hello/parts/gnu-bash/build/conftest.c:187: undefined reference to `_doprnt'
 collect2: error: ld returned 1 exit status
 configure:9557: $? = 1
@@ -3090,7 +3090,7 @@ configure: failed program was:
 configure:9675: result: void
 configure:9684: checking for __setostype
 configure:9684: gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccDWvXV7.o: In function `main':
+/tmp/ccuTwIQp.o: In function `main':
 /home/parallels/mysnaps/hello/parts/gnu-bash/build/conftest.c:189: undefined reference to `__setostype'
 collect2: error: ld returned 1 exit status
 configure:9684: $? = 1
@@ -3364,7 +3364,7 @@ configure:9713: $? = 0
 configure:9713: result: yes
 configure:9713: checking for setdtablesize
 configure:9713: gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/cccTRsh9.o: In function `main':
+/tmp/ccV1eQdq.o: In function `main':
 /home/parallels/mysnaps/hello/parts/gnu-bash/build/conftest.c:208: undefined reference to `setdtablesize'
 collect2: error: ld returned 1 exit status
 configure:9713: $? = 1
@@ -3947,7 +3947,7 @@ configure:10475: $? = 0
 configure:10475: result: yes
 configure:10475: checking for fpurge
 configure:10475: gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccilflEi.o: In function `main':
+/tmp/cce2OsaR.o: In function `main':
 /home/parallels/mysnaps/hello/parts/gnu-bash/build/conftest.c:289: undefined reference to `fpurge'
 collect2: error: ld returned 1 exit status
 configure:10475: $? = 1
@@ -4369,7 +4369,7 @@ configure:10968: $? = 0
 configure:10968: result: yes
 configure:10974: checking for mbscasecmp
 configure:10974: gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccNQYcPR.o: In function `main':
+/tmp/cchPOwDO.o: In function `main':
 /home/parallels/mysnaps/hello/parts/gnu-bash/build/conftest.c:311: undefined reference to `mbscasecmp'
 collect2: error: ld returned 1 exit status
 configure:10974: $? = 1
@@ -4691,7 +4691,7 @@ configure: failed program was:
 configure:10974: result: no
 configure:10980: checking for mbscmp
 configure:10980: gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccPPYsXX.o: In function `main':
+/tmp/ccmetAWU.o: In function `main':
 /home/parallels/mysnaps/hello/parts/gnu-bash/build/conftest.c:311: undefined reference to `mbscmp'
 collect2: error: ld returned 1 exit status
 configure:10980: $? = 1
@@ -5021,7 +5021,7 @@ configure:10992: $? = 0
 configure:10992: result: yes
 configure:10999: checking for mbschr
 configure:10999: gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccZPy8C8.o: In function `main':
+/tmp/ccOATAO4.o: In function `main':
 /home/parallels/mysnaps/hello/parts/gnu-bash/build/conftest.c:313: undefined reference to `mbschr'
 collect2: error: ld returned 1 exit status
 configure:10999: $? = 1
@@ -5746,7 +5746,7 @@ configure: failed program was:
 configure:11289: result: 
 configure:11302: checking for locale_charset
 configure:11302: gcc -o conftest -g -O2   conftest.c   >&5
-/tmp/ccwq5SaY.o: In function `main':
+/tmp/ccbPPQES.o: In function `main':
 /home/parallels/mysnaps/hello/parts/gnu-bash/build/conftest.c:330: undefined reference to `locale_charset'
 collect2: error: ld returned 1 exit status
 configure:11302: $? = 1
@@ -14662,7 +14662,7 @@ configure: failed program was:
 configure:15491: result: no
 configure:15590: checking for tgetent
 configure:15590: gcc -o conftest -g -O2   conftest.c -ldl  >&5
-/tmp/ccg6kNax.o: In function `main':
+/tmp/cc6gSt0u.o: In function `main':
 /home/parallels/mysnaps/hello/parts/gnu-bash/build/conftest.c:388: undefined reference to `tgetent'
 collect2: error: ld returned 1 exit status
 configure:15590: $? = 1

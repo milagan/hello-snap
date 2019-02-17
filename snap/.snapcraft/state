@@ -1,5 +1,4 @@
 !GlobalState
 assets:
-  build-packages:
-  - autopoint=0.19.7-2ubuntu3.1
+  build-packages: []
   build-snaps: []
